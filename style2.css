@@ -181,11 +181,11 @@ li {
 .extra1 {
  background: rgba(51,55,69,0.9);
  width: 30%;
- height: 375%;
+ height: 100%;
  top: 0px;
  right: 0px;
  margin: 0px;
- position: absolute;
+ position: fixed;
     
 }
 
